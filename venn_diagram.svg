@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M146,98 C165.188184,98 183.44824,101.973787 200.002108,109.143302 L200.002108,358.856698 C183.44824,366.026213 165.188184,370 146,370 C70.889274,370 10,309.110726 10,234 C10,158.889274 70.889274,98 146,98 Z" id="Combined-Shape" fill="#F05137"></path>
+        <path d="M254,98 C329.110726,98 390,158.889274 390,234 C390,309.110726 329.110726,370 254,370 C234.811605,370 216.551358,366.026125 199.997346,358.856462 L199.997346,109.143538 C216.551358,101.973875 234.811605,98 254,98 Z" id="Combined-Shape" fill="#FFAE43"></path>
+        <path d="M200.002108,109.143302 C248.247131,130.038321 282,178.077458 282,234 C282,289.922542 248.247131,337.961679 200.002108,358.856698 C151.753335,337.962343 118,289.922928 118,234 C118,178.418063 151.342966,130.623793 199.117978,109.528111 Z" id="Combined-Shape" fill="#137EE9"></path>
+        <text id="fast" font-family="AvenirNext-Medium, Avenir Next" font-size="40" font-weight="400" fill="#FFFFFF">
+            <tspan x="167.5" y="209">fast</tspan>
+        </text>
+        <text id="Rust" font-family="AvenirNext-Bold, Avenir Next" font-size="40" font-weight="bold" fill="#000000">
+            <tspan x="94.32" y="63">Rust</tspan>
+        </text>
+        <text id="Swift" font-family="AvenirNext-Bold, Avenir Next" font-size="40" font-weight="bold" fill="#000000">
+            <tspan x="214.6" y="63">Swift</tspan>
+        </text>
+        <text id="parallel" transform="translate(80.500000, 233.000000) rotate(270.000000) translate(-80.500000, -233.000000) " font-family="AvenirNext-Medium, Avenir Next" font-size="40" font-weight="400" fill="#FFFFFF">
+            <tspan x="12.1" y="245.5">parallel</tspan>
+        </text>
+        <text id="safe" font-family="AvenirNext-Medium, Avenir Next" font-size="40" font-weight="400" fill="#FFFFFF">
+            <tspan x="162.62" y="284">safe</tspan>
+        </text>
+        <text id="expressive" transform="translate(319.500000, 234.000000) rotate(90.000000) translate(-319.500000, -234.000000) " font-family="AvenirNext-Medium, Avenir Next" font-size="40" font-weight="400" fill="#FFFFFF">
+            <tspan x="222.52" y="246.5">expressive</tspan>
+        </text>
+    </g>
+</svg>
