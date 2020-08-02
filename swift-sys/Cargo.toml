@@ -1,0 +1,16 @@
+[package]
+name = "swift-sys"
+version = "0.0.0"
+description = "[WIP] Bindings to Swift's built-in types and functions."
+authors = ["Nikolai Vazquez <nikvzqz@gmail.com>"]
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/rustswift/swift-bindgen"
+repository = "https://github.com/rustswift/swift-bindgen"
+documentation = "https://docs.rs/swift-sys"
+edition = "2018"
+keywords = ["swift", "bindgen", "stdlib"]
+categories = ["external-ffi-bindings", "development-tools::ffi"]
+include = ["Cargo.toml", "src/**/*.rs", "README.md", "CHANGELOG.md", "LICENSE*"]
+
+[dependencies]
+static_assertions = "1"
